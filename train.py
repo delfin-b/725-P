@@ -5,16 +5,16 @@ from datasets import load_from_disk
 import wandb
 import os
 
-# Optional: Initialize Weights & Biases
+# Initialize Weights & Biases
 wandb.init(project="725-P", name="gemma-lora")
 
 # Paths
 MODEL_NAME = "google/gemma-2b-it"
-DATASET_PATH = "./processed_dataset"  # from dataprep.py (use Dataset.save_to_disk)
+DATASET_PATH = "./processed_dataset"  # from dataprep.py (uses Dataset.save_to_disk)
 
 # Load tokenizer and model
 tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
-model = AutoModelForCausalLM.from_pretrained(MODEL_NAME, torch_dtype=torch.bfloat16, device_map="auto")
+model = AutoModelForCausalLM.from_pretrained(MODEL_NAME, torch_dtype=torch.float16, device_map="auto")
 
 # LoRA configuration
 peft_config = LoraConfig(
@@ -27,6 +27,7 @@ peft_config = LoraConfig(
 )
 
 model = get_peft_model(model, peft_config)
+#print(model.dtype)
 
 # Load dataset
 dataset = load_from_disk(DATASET_PATH)
@@ -45,19 +46,21 @@ training_args = TrainingArguments(
     output_dir="./results",
     per_device_train_batch_size=4,
     per_device_eval_batch_size=4,
-    evaluation_strategy="epoch",
+    eval_strategy="epoch",
     logging_dir="./logs",
     logging_steps=10,
     save_strategy="epoch",
     num_train_epochs=3,
     learning_rate=1e-4,
-    #fp16=True,
-    resume_from_checkpoint=True,
+    fp16=True,
     report_to=["wandb"],
     run_name="gemma-lora-run",
     save_total_limit=2,
     load_best_model_at_end=True,
+    metric_for_best_model="eval_loss", 
+    greater_is_better=False             
 )
+
 
 # Trainer
 trainer = Trainer(
@@ -66,10 +69,14 @@ trainer = Trainer(
     train_dataset=train_dataset,
     eval_dataset=eval_dataset,
     data_collator=data_collator,
+    compute_metrics=None
 )
 
 # Start training
 trainer.train()
+
+# Free up GPU memory
+torch.cuda.empty_cache()
 
 # Save the model
 model.save_pretrained("./gemma-lora-checkpoint")
