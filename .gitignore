@@ -6,3 +6,14 @@ RISCM/
 RISCM/
 
 wandb/
+
+__pycache__/
+
+*.safetensors
+
+tokenizer.json
+
+optimizer.pt
+
+output/
+lora_adapter/
