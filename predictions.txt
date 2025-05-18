@@ -1,0 +1,500 @@
+Predicted:  Two planes parked next to boarding bridges and another passing plane beside .
+photo
+Reference:  Two planes parked next to boarding bridges and another passing plane beside .
+
+
+Predicted:  Two aircraft were parked at the departure gates and one was on the runway .
+photo : an aerial view of the airport
+Reference:  Two aircraft were parked at the departure gates and one was on the runway .
+
+
+Predicted:  Several planes of the same size parked neatly next to the buildings inside the airport .
+photo : an aerial view
+Reference:  Several planes of the same size parked neatly next to the buildings inside the airport .
+
+
+Predicted:  Three planes are parked on the open space next to the terminal .
+photo by google maps
+Reference:  Three planes are parked on the open space next to the terminal .
+
+
+Predicted:  Three planes are in the parking lot next to the building .
+photo by google maps
+Reference:  Three planes are in the parking lot next to the building .
+
+
+Predicted:  A small plane and a big plane parked on the airport and the lawn beside .
+2012
+Reference:  A small plane and a big plane parked on the airport and the lawn beside .
+
+
+Predicted:  There are two aircraft on the ground, And the larger one is twice as large as the other one .
+photo
+Reference:  There are two aircraft on the ground, And the larger one is twice as large as the other one .
+
+
+Predicted:  There are two planes of the same size in a clearing, Many cars parked next to the plane .
+2
+Reference:  There are two planes of the same size in a clearing, Many cars parked next to the plane .
+
+
+Predicted:  Two planes are parked on the open space beside the grass .
+2
+Reference:  Two planes are parked on the open space beside the grass .
+
+
+Predicted:  Two planes are in the clearing next to the grass .
+2
+Reference:  Two planes are in the clearing next to the grass .
+
+
+Predicted:  Three camouflage planes parked on the open area and the lawn with some trees beside .
+satellite image of the airfield
+Reference:  Three camouflage planes parked on the open area and the lawn with some trees beside .
+
+
+Predicted:  Three gray and white planes parked on the gray ground .
+satellite image
+Reference:  Three gray and white planes parked on the gray ground .
+
+
+Predicted:  Several camouflage planes parked in a clearing, With many buildings and lawns next to the plane .
+satellite image of the base
+Reference:  Several camouflage planes parked in a clearing, With many buildings and lawns next to the plane .
+
+
+Predicted:  Three planes are parked on the open space beside the grass and trees .
+satellite image of the base
+Reference:  Three planes are parked on the open space beside the grass and trees .
+
+
+Predicted:  Three planes are in the clearing next to the grass .
+satellite image of the base
+Reference:  Three planes are in the clearing next to the grass .
+
+
+Predicted:  Three tail-to-tail planes parked on the open area and a clearing beside .
+the runway .
+Reference:  Three tail-to-tail planes parked on the open area and a clearing beside .
+
+
+Predicted:  There were three white planes on the ground, One of which was facing in a different direction from the other two .
+the plane on the left is the one that was shot down .
+Reference:  There were three white planes on the ground, One of which was facing in a different direction from the other two .
+
+
+Predicted:  There are many planes of different sizes in a clearing .
+3
+Reference:  There are many planes of different sizes in a clearing .
+
+
+Predicted:  Three planes are parked on the open space beside the bare ground .
+the airport
+Reference:  Three planes are parked on the open space beside the bare ground .
+
+
+Predicted:  Three planes are in the clearing next to the grass .
+the airport
+Reference:  Three planes are in the clearing next to the grass .
+
+
+Predicted:  A plane parked between two buildings on the open area .
+photo
+Reference:  A plane parked between two buildings on the open area .
+
+
+Predicted:  A white plane parked beside the building .
+photo
+Reference:  A white plane parked beside the building .
+
+
+Predicted:  An airplane parked in an open area with many containers next to it .
+photo
+Reference:  An airplane parked in an open area with many containers next to it .
+
+
+Predicted:  A plane is parked next to the buildings .
+photo
+Reference:  A plane is parked next to the buildings .
+
+
+Predicted:  One plane is on the ground in the middle of the buildings .
+photo
+Reference:  One plane is on the ground in the middle of the buildings .
+
+
+Predicted:  Some planes parked next to two ring terminals and the other two is on the runway .
+the airport is the busiest in the country .
+Reference:  Some planes parked next to two ring terminals and the other two is on the runway .
+
+
+Predicted:  Five aircraft were parked at the departure gates and two aircraft were on the runway .
+the airport is the busiest in the country .
+Reference:  Five aircraft were parked at the departure gates and two aircraft were on the runway .
+
+
+Predicted:  Several planes of different sizes are neatly parked beside buildings in the airport .
+the airport is located in the city of
+Reference:  Several planes of different sizes are neatly parked beside buildings in the airport .
+
+
+Predicted:  Many of the planes are parked around the terminal and on the open space near the terminal .
+the airport is the busiest in the country .
+Reference:  Many of the planes are parked around the terminal and on the open space near the terminal .
+
+
+Predicted:  Seven planes are in the parking lot next to the buildings .
+the airport is the busiest in the world .
+Reference:  Seven planes are in the parking lot next to the buildings .
+
+
+Predicted:  Three planes parked on the airport .
+photo by google maps
+Reference:  Three planes parked on the airport .
+
+
+Predicted:  There were three white planes on the ground, One of which was facing in a different direction from the other two .
+the plane that was supposed to fly to the us
+Reference:  There were three white planes on the ground, One of which was facing in a different direction from the other two .
+
+
+Predicted:  There are many planes of different sizes in a clearing .
+a. aerial view of the runway
+Reference:  There are many planes of different sizes in a clearing .
+
+
+Predicted:  Three planes are parked on the open space next to the grass and the runway .
+the airport
+Reference:  Three planes are parked on the open space next to the grass and the runway .
+
+
+Predicted:  Three planes of different sizes were on the ground .
+the airport
+Reference:  Three planes of different sizes were on the ground .
+
+
+Predicted:  Three planes parked next to boarding bridges of the striped terminal while some white facilities around planes .
+image
+Reference:  Three planes parked next to boarding bridges of the striped terminal while some white facilities around planes .
+
+
+Predicted:  Three aircraft were parked at the departure gates .
+photo
+Reference:  Three aircraft were parked at the departure gates .
+
+
+Predicted:  Several planes of different sizes are neatly parked beside buildings in the airport .
+image
+Reference:  Several planes of different sizes are neatly parked beside buildings in the airport .
+
+
+Predicted:  Three planes are parked around the terminal .
+photo credit
+Reference:  Three planes are parked around the terminal .
+
+
+Predicted:  Three planes are in the parking lot next to the building .
+photo
+Reference:  Three planes are in the parking lot next to the building .
+
+
+Predicted:  A plane parked on the airport and the lawn in front of it .
+photo
+Reference:  A plane parked on the airport and the lawn in front of it .
+
+
+Predicted:  Here is a white plane and piles of containers .
+plane
+Reference:  Here is a white plane and piles of containers .
+
+
+Predicted:  An airplane parked in an open area with many containers next to it .
+photo
+Reference:  An airplane parked in an open area with many containers next to it .
+
+
+Predicted:  A plane is parked on the open space beside the grass .
+airport
+Reference:  A plane is parked on the open space beside the grass .
+
+
+Predicted:  There is an airplane in the parking lot .
+photo
+Reference:  There is an airplane in the parking lot .
+
+
+Predicted:  A plane parked on the lawn and sone cars behind it .
+image
+Reference:  A plane parked on the lawn and sone cars behind it .
+
+
+Predicted:  A gray plane and several cars parked on the lawn .
+aircraft in a field
+Reference:  A gray plane and several cars parked on the lawn .
+
+
+Predicted:  An airplane parked in an open area with many containers next to it .
+photo : aircraft
+Reference:  An airplane parked in an open area with many containers next to it .
+
+
+Predicted:  A plane and many cars are parked on the open space in the middle of the grass .
+plane in the middle of the grass
+Reference:  A plane and many cars are parked on the open space in the middle of the grass .
+
+
+Predicted:  There is a plane on the grass .
+aircraft at the airport
+Reference:  There is a plane on the grass .
+
+
+Predicted:  Three planes parked next to boarding bridges .
+image
+Reference:  Three planes parked next to boarding bridges .
+
+
+Predicted:  Two aircraft were parked at the departure gates and one was moving .
+the airport
+Reference:  Two aircraft were parked at the departure gates and one was moving .
+
+
+Predicted:  There are many planes of the same size in a clearing, With many containers next to the plane .
+airport
+Reference:  There are many planes of the same size in a clearing, With many containers next to the plane .
+
+
+Predicted:  Three planes are parked on the open space next to the terminal .
+the airport
+Reference:  Three planes are parked on the open space next to the terminal .
+
+
+Predicted:  Three aircraft of different sizes were on the marked ground .
+the airport
+Reference:  Three aircraft of different sizes were on the marked ground .
+
+
+Predicted:  Some planes parked on the airport and two of them are face-to-face .
+photo
+Reference:  Some planes parked on the airport and two of them are face-to-face .
+
+
+Predicted:  There are four aircraft in the image .
+image
+Reference:  There are four aircraft in the image .
+
+
+Predicted:  There are many planes of different sizes in a clearing .
+200 feet tall
+Reference:  There are many planes of different sizes in a clearing .
+
+
+Predicted:  Five planes are parked on the open space .
+the airport
+Reference:  Five planes are parked on the open space .
+
+
+Predicted:  Four aircraft of different sizes were on the marked ground .
+the airport
+Reference:  Four aircraft of different sizes were on the marked ground .
+
+
+Predicted:  A plane parked on the open area and some trees beside .
+satellite image of the crash site
+Reference:  A plane parked on the open area and some trees beside .
+
+
+Predicted:  A white plane parked in the open space beside the blue building .
+satellite image of the crash site
+Reference:  A white plane parked in the open space beside the blue building .
+
+
+Predicted:  An airplane parked on an open lot with many buildings and lawns next to it .
+satellite image of the crash site
+Reference:  An airplane parked on an open lot with many buildings and lawns next to it .
+
+
+Predicted:  A plane is parked on the open space between the buildings and the trees .
+satellite image
+Reference:  A plane is parked on the open space between the buildings and the trees .
+
+
+Predicted:  An airplane is in the parking lot between the buildings and the grass .
+satellite image
+Reference:  An airplane is in the parking lot between the buildings and the grass .
+
+
+Predicted:  Two adjacent planes parked next to boarding bridges of the purple striped terminal .
+photo
+Reference:  Two adjacent planes parked next to boarding bridges of the purple striped terminal .
+
+
+Predicted:  The airport has four boarding gates, Two of which are currently parked .
+photo
+Reference:  The airport has four boarding gates, Two of which are currently parked .
+
+
+Predicted:  Two planes of different sizes are neatly parked next to the buildings in the airport .
+photo
+Reference:  Two planes of different sizes are neatly parked next to the buildings in the airport .
+
+
+Predicted:  Two planes are parked on the open space next to the terminal .
+photo
+Reference:  Two planes are parked on the open space next to the terminal .
+
+
+Predicted:  Two planes are in the parking lot next to the building .
+photo
+Reference:  Two planes are in the parking lot next to the building .
+
+
+Predicted:  A yellow plane parked on the airport and parking lots with many cars beside .
+photo
+Reference:  A yellow plane parked on the airport and parking lots with many cars beside .
+
+
+Predicted:  A yellow plane was parked on the ground .
+photo
+Reference:  A yellow plane was parked on the ground .
+
+
+Predicted:  There are many buildings next to an airplane and many cars parked in the open space next to the building .
+photo
+Reference:  There are many buildings next to an airplane and many cars parked in the open space next to the building .
+
+
+Predicted:  A yellow plane is parked on the open space next to the runway and the grass .
+photo
+Reference:  A yellow plane is parked on the open space next to the runway and the grass .
+
+
+Predicted:  A plane is in the clearing next to the road .
+photo : an aerial view of the airport
+Reference:  A plane is in the clearing next to the road .
+
+
+Predicted:  Some planes parked in different directions on the open area while some buildings arranged neatly beside .
+the airport
+Reference:  Some planes parked in different directions on the open area while some buildings arranged neatly beside .
+
+
+Predicted:  Here are six white planes and a blue triangle building .
+the airport is located in the middle of the desert .
+Reference:  Here are six white planes and a blue triangle building .
+
+
+Predicted:  Several planes of different sizes are parked in a clearing, With many buildings next to the plane .
+the airport is located in the middle of a city .
+Reference:  Several planes of different sizes are parked in a clearing, With many buildings next to the plane .
+
+
+Predicted:  Many planes are parked on the open space next to the buildings .
+the airport is located in the middle of the city .
+Reference:  Many planes are parked on the open space next to the buildings .
+
+
+Predicted:  Six planes are in the parking lot next to the buildings .
+the airport is located in the middle of the city .
+Reference:  Six planes are in the parking lot next to the buildings .
+
+
+Predicted:  A blue plane parked next to a boarding bridge and two buildings beside .
+airport
+Reference:  A blue plane parked next to a boarding bridge and two buildings beside .
+
+
+Predicted:  A plane with a blue fuselage and white wings is parked at the boarding port .
+the plane is parked at the boarding port .
+Reference:  A plane with a blue fuselage and white wings is parked at the boarding port .
+
+
+Predicted:  One plane parked next to the building inside the airport, Many cars parked next to the plane .
+the plane is parked next to the building inside the airport
+Reference:  One plane parked next to the building inside the airport, Many cars parked next to the plane .
+
+
+Predicted:  A blue plane is parked on the open space next to the terminal .
+the plane is parked on the tarmac
+Reference:  A blue plane is parked on the open space next to the terminal .
+
+
+Predicted:  There is an airplane in the parking lot .
+photo
+Reference:  There is an airplane in the parking lot .
+
+
+Predicted:  Three planes parked on the airport while some buildings and cars beside .
+the runway
+Reference:  Three planes parked on the airport while some buildings and cars beside .
+
+
+Predicted:  There are three planes parked on the ground, And the red mud surrounding the ground .
+the airport is located in the middle of a city .
+Reference:  There are three planes parked on the ground, And the red mud surrounding the ground .
+
+
+Predicted:  Several planes of different sizes are parked in a clearing, With many buildings next to the plane .
+airport
+Reference:  Several planes of different sizes are parked in a clearing, With many buildings next to the plane .
+
+
+Predicted:  Three planes are parked on the open space near the buildings .
+the airport is located in the middle of the city .
+Reference:  Three planes are parked on the open space near the buildings .
+
+
+Predicted:  Three planes are in the parking lot next to the buildings .
+the airport is in the middle of the island .
+Reference:  Three planes are in the parking lot next to the buildings .
+
+
+Predicted:  Two planes parked on the airport while some buildings beside .
+the runway were destroyed .
+Reference:  Two planes parked on the airport while some buildings beside .
+
+
+Predicted:  There are two aircraft on the ground, And the larger one is four times as large as the other one .
+the plane is seen on the ground .
+Reference:  There are two aircraft on the ground, And the larger one is four times as large as the other one .
+
+
+Predicted:  Several planes of different sizes are parked in a clearing, With many buildings next to the plane .
+the plane
+Reference:  Several planes of different sizes are parked in a clearing, With many buildings next to the plane .
+
+
+Predicted:  A plane is parked on the runway next to the buildings .
+the plane is seen here .
+Reference:  A plane is parked on the runway next to the buildings .
+
+
+Predicted:  Two planes are on the ground next to the buildings .
+the plane is seen on the ground .
+Reference:  Two planes are on the ground next to the buildings .
+
+
+Predicted:  Some planes parked in three lines on the airport .
+the airport is the busiest in the world .
+Reference:  Some planes parked in three lines on the airport .
+
+
+Predicted:  Twenty-one planes lined up in three rows on the open space .
+the airport is currently closed to all commercial flights .
+Reference:  Twenty-one planes lined up in three rows on the open space .
+
+
+Predicted:  Several planes of different sizes are parked in a clearing, With many buildings and lawns next to the plane .
+airport
+Reference:  Several planes of different sizes are parked in a clearing, With many buildings and lawns next to the plane .
+
+
+Predicted:  Three rows of planes are parked on the open space between the bare lands and the buildings .
+the airport is currently closed to all traffic .
+Reference:  Three rows of planes are parked on the open space between the bare lands and the buildings .
+
+
+Predicted:  Many planes of different sizes were on the marked ground .
+the airport
+Reference:  Many planes of different sizes were on the marked ground .
+
+
