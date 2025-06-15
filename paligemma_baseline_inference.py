@@ -5,22 +5,22 @@ import pandas as pd
 from pathlib import Path
 from tqdm import tqdm
 
-# --- Config ---
+# 
 MODEL_ID = "google/paligemma-3b-mix-224"
 DATA_PATH = "RISCM/captions.csv"  
 IMAGE_FOLDER = "RISCM/resized"          
 OUTPUT_CSV = "inference/predictions.csv"
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
-# --- Load model and processor ---
+#load data and processor
 model = PaliGemmaForConditionalGeneration.from_pretrained(MODEL_ID).to(DEVICE).eval()
 processor = AutoProcessor.from_pretrained(MODEL_ID)
 
-# --- Load data ---
+#load data
 df = pd.read_csv(DATA_PATH)
 df["predicted_caption"] = ""
 
-# --- Inference ---
+# inference
 for idx, row in tqdm(df.iterrows(), total=len(df), desc="Generating captions"):
     image_path = Path(IMAGE_FOLDER) / row["image"]
     if not image_path.exists():
@@ -29,7 +29,7 @@ for idx, row in tqdm(df.iterrows(), total=len(df), desc="Generating captions"):
 
     image = Image.open(image_path).convert("RGB")
 
-    # You can adjust the prompt to guide the model, like "caption" or "caption en"
+    # prompts can be adjusted to guide the model, like "caption" or "caption en"
     prompt = "caption"
     inputs = processor(images=image, text=prompt, return_tensors="pt").to(DEVICE)
     input_len = inputs["input_ids"].shape[-1]
@@ -41,7 +41,7 @@ for idx, row in tqdm(df.iterrows(), total=len(df), desc="Generating captions"):
 
     df.at[idx, "predicted_caption"] = decoded
 
-# --- Save predictions ---
+# Save predictions
 # Ensure output folder exists
 Path(OUTPUT_CSV).parent.mkdir(parents=True, exist_ok=True)
 
